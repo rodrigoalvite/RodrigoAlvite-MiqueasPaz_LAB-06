@@ -1,4 +1,4 @@
-## PAZ MIQUEAS
+## PAZ MIQUEAS & RODRIGO ALVITE
 # Actividad: Trabajando con Permisos en Linux
 
 ## Objetivo
